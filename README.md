@@ -1,6 +1,18 @@
 # @JRCharney
 
-I am **Jason Charney** (@JRCharney).
+I am **Jason Charney** (@JRCharney).  I am a web developer in the St. Louis Area.
+
+## Websites
+- 🚧 [JRCharney.com](https://www.jrcharney.com/) 🚧 - It's been a while since I've updated this.
+- [Dev.to/JRCharney](https://dev.to/jrcharney)
+- [Codepen.io/JRCharney](https://codepen.io/jrcharney)
+- 🚧 [JRCharney.github.io](https://jrcharney.github.io/) 🚧 - Under Construction
+  - [Bootcamp Portfolio](https://jrcharney.github.io/bootcamp-portfolio/) - Eventually this will replace that.
+
+## Education Background
+- 2007: Maryville University, St. Louis, MO, Bachlors of Science in Computer Science
+- 2020: LaunchCode Alumni, St. Louis, MO
+- 2022-2023: Washington University of St. Louis, Coding Bootcamp, St. Louis, MO
 
 ## Current Programming Interests
 - **HTML5**
@@ -92,6 +104,8 @@ Did you know I was turned down for a job once because I didn't own a Macbook?  I
 
 Of course, the company seemed more like it was more interested in playing air hockey than it was writing code anyway. Their loss!
 
+So, what does that have anything ot do with Linux?  Linux just works. It does everything.
+
 ### I won't relocate the West Coast or North East
 The reason: COST.
 
@@ -116,7 +130,7 @@ Netflix is suffering because when you threaten people who use it with a VPN or w
 
 Amazon, I know everything is going to streaming, but there's something inhertedly wrong when you need to find a used book store or video store that is still around to get physical copies of stuff because the digital copies are being destroyed by order of the massive conglomorate that promised that they wouldn't remove it. (I'm looking at you David Zaslav of Discovery-Warner Bros!)  So start making a list of all the classic movies you like, and get a copy or make sure there's a copy at your local library in their video section.
 
-Para-social relationships with billionaires are unhealthy!  Elon Musk is NOT your friend.  Jeff Bezos doesn't own you anything.  The Cloud where all the streaming content is located is actually someone else's computer and that somone else doesn't want to pay to host it anymore because they'd rather keep the money for themselves.
+**Para-social relationships with billionaires are unhealthy!**  Elon Musk is NOT your friend.  Jeff Bezos doesn't own you anything.  The Cloud where all the streaming content is located is actually someone else's computer and that somone else doesn't want to pay to host it anymore because they'd rather keep the money for themselves.
 
 So stick it to these mostly-baldheaded men, pirate everything! Or at very least, buy a physical copy.  No more lost media!
 
@@ -126,20 +140,33 @@ Oh and **UNIONIZE THE TECH INDUSTRY!** We should have done that years ago.  Figh
 
 **TECH WORKERS OF THE WORLD UNITE!**
 
-## Websites
-- 🚧 [JRCharney.com](https://www.jrcharney.com/) 🚧 - It's been a while since I've updated this.
-- [Dev.to/JRCharney](https://dev.to/jrcharney)
-- [Codepen.io/JRCharney](https://codepen.io/jrcharney)
-- 🚧 [JRCharney.github.io](https://jrcharney.github.io/) 🚧 - Under Construction
-  - [Bootcamp Portfolio](https://jrcharney.github.io/bootcamp-portfolio/) - Eventually this will replace that.
+Learn more: **Visit [CODE-CWA.org](https://code-cwa.org/).** No more bone-headed "metaverse"/"cryptocurrency" BS crashing the industry and making the workers pay for the bosses' mistakes!
 
-## Education Background
-- 2007: Maryville University, St. Louis, MO, Bachlors of Science in Computer Science
-- 2020: LaunchCode Alumni, St. Louis, MO
-- 2022-2023: Washington University of St. Louis, Coding Bootcamp, St. Louis, MO
+## What I'm looking for in a boss/company
+
+Does your company meet the following requirements:
+* Located in the Midwest (preferably the St. Louis Area.)
+* A boss who isn't an idiot
+* A boss who isn't considered smart because he has money acquired by generational wealth
+* A boss who can write code, has a Github, CodePen, HackerRank, Repl.it, JSFiddle, or other website (a minimum of 3 of those things or something like them) with code examples that aren't just some facimilie of examples plagarized from some O'Reilly Media books?
+* A boss who doesn't try to piviot their employees' roles such as making web developers become on-call social media managers. (I am NOT going to update your Twitter, Instagram, or Facebook account! And I am NOT putting TikTok on my phone. You're a big boy. Update your own social media!)
+* A boss who doesn't have a para-social relationship with Jesus. (You know, the kind that devotes *EVERYTHING* he does to Christ, including working out at the gym, setting the radio to either "Christian Music" or Sean Hannity, ruining school board and county government meetings with their roid rage, which ulitmately ruins being religous and leads that person down a rabbit hole of hate.)
+* A boss who pays their employees at least once every 14 days, fills out the W-2 tax forms quarterly, uses a payroll system, and isn't squirreling the company's profits if in some offshore account in the Cayman Islands, Bermuda, Ireland, or some other tax shelter.
+* A boss who will NEVER commit tax fraud, hire goons to commit said tax fraud, or have some washed-up celebrity attorney on the verge of disbarment have a press conference outside of the Four Seasons...Total Landscaping.
+* A boss who didn't support political leaders who attempted a coup on this country. (There's a guy in Wentzville, Missouri who does tech stuff, but he was also part of that crowd on January 6, 2020, and he shouldn't even be allowed to run his own start-up let alone have employees call him their boss.)
+* A boss who accepts that the Holocaust happened and was horroble, eschews any support of fascism, and rebukes anyone who suggests removing the U.S. Constitution because it doesn't fit with his record of authoritarism, oligarcy, fraud, or kleptocracy or the support of the tyrants who do it themselves.
+* A boss who will never attempt to fire workers for suggesting talking about organized labor or forming a union.
+* A boss who isn't offended by employees who speak their mind after years of watching other horrible bosses do a lot of the bad crap I just mentioned.
+
+Then by all means, please hire me.  I'm sick of sending resumes to people who are OK with that crap.
+
+I don't care if it mean I won't get a job. If you're OK with any of that crap, you shouldn't even in this industry lead alone running a company in this industry.
+
+This industry needs new leadership.
 
 ## Contact
 You can contact me here. I have a [LinkedIn](https://www.linkedin.com/in/jasoncharney/) profile, but that website sucks. It's such a crappy play. Go see my stuff at those other links.
 
-Coded in America 🇺🇸
+---
+&copy; 2022 | A JRCharney Production | ![US Flag](https://github.com/jrcharney/jrcharney/blob/main/US-United-States-Flag-icon.png) Coded in Amerca
 
