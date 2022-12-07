@@ -2,12 +2,6 @@
 
 I am **Jason Charney** (@JRCharney).
 
-- 👋 Hi, I’m @jrcharney
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 ## Current Programming Interests
 - **HTML5**
 - **CSS3**
@@ -97,6 +91,36 @@ The whole point: Don't install every plugin. There's a lot of stuff the Prettier
 Did you know I was turned down for a job once because I didn't own a Macbook?  I believe code should work on ANY operating system, but prefer to develop it on Linux.  You shouldn't have to take out a huge loan to buy a computer.  And you shouldn't be turned down for a job because you don't own an overpriced laptop.
 
 Of course, the company seemed more like it was more interested in playing air hockey than it was writing code anyway. Their loss!
+
+### I won't relocate the West Coast or North East
+The reason: COST.
+
+The problem isn't that I'm too stubborn to move, it's just that what makes more sense: Paying $3 for gas in St. Louis or $8 for gas in San Jose? You don't need to be an economist to figure that out.
+
+### The Tech Industry is fine. It's BIG TECH that's screwed.
+The New York Times recently published that Computer Science Majors were going to have a hard time finding a job.  I've had my BSCS since 2007, and the only thing I've found out that impeded me from getting a job in the tech industry is the LACK of a tech industry because of an emphasis on relying on Big Tech.
+
+But here's the problem with that.
+
+**The smartest people in the room are NOT the ones with all the money.**
+
+> Caution, short rant ensues.
+
+There's the saying "If you're so smart, why aren't you rich?"  The saying should be "If you're so rich, why aren't you smart?"
+
+Mark Zuckerberg admitted in November 2022 that he screwed up going all in on his Metaverse nonsense.  Anyone who grew up and remember the VR Bubble of the 1990s could have told you that.
+
+Elon Musk is going into some serious legal trouble since he bought Twitter from Jack Dorsey in late 2022.  Social medial is a mess right now, espeically after Elon fired all the people who needed to be there to keep Twitter going.
+
+Netflix is suffering because when you threaten people who use it with a VPN or who share passwords with family and don't offer a way to migrate or separate accounts, folks are going to flock to other streaming services.  It sucks we have so many streaming services! Especially since the media companies in charge of them (Disney, Discovery-Warner Bros., Paramount) don't want to pay creators, are destroying content for tax write offs (espeically anything where a lot of animation and visual effects were involved), increase prices, insert ads, and then wonder where all your customers are.
+
+Amazon, I know everything is going to streaming, but there's something inhertedly wrong when you need to find a used book store or video store that is still around to get physical copies of stuff because the digital copies are being destroyed by order of the massive conglomorate that promised that they wouldn't remove it. (I'm looking at you David Zaslav of Discovery-Warner Bros!)  So start making a list of all the classic movies you like, and get a copy or make sure there's a copy at your local library in their video section.
+
+Para-social relationships with billionaires are unhealthy!  Elon Musk is NOT your friend.  Jeff Bezos doesn't own you anything.  The Cloud where all the streaming content is located is actually someone else's computer and that somone else doesn't want to pay to host it anymore because they'd rather keep the money for themselves.
+
+So stick it to these mostly-baldheaded men, pirate everything! Or at very least, buy a physical copy.  No more lost media!
+
+Once that is done, invite some friends over to watch stuff.  It's time we started getting together and watching movies again.
 
 ## Websites
 - 🚧 [JRCharney.com](https://www.jrcharney.com/) 🚧 - It's been a while since I've updated this.
