@@ -122,6 +122,10 @@ So stick it to these mostly-baldheaded men, pirate everything! Or at very least,
 
 Once that is done, invite some friends over to watch stuff.  It's time we started getting together and watching movies again.
 
+Oh and **UNIONIZE THE TECH INDUSTRY!** We should have done that years ago.  Fight for time off. Fight for health care. Fight to stop these dumbass "innovators" who didn't make a damn thing despite how we are told how trendy they are.  Dennis Ritchie deserves more praise than Steve Jobs.  Women did most of the tech work before the men showed up and make the tech industry a frat house of toxic masculinity.  Black, Latin, Asian, Disabled, LGBTQIA+, Neurodivergent people should have a much bigger place at the table than these straight white guys who run everything and are now laying people off because they spent all their money on some meme cryptocurrency or some vaporware pet project that never had a viable business model!
+
+**TECH WORKERS OF THE WORLD UNITE!**
+
 ## Websites
 - 🚧 [JRCharney.com](https://www.jrcharney.com/) 🚧 - It's been a while since I've updated this.
 - [Dev.to/JRCharney](https://dev.to/jrcharney)
@@ -135,5 +139,7 @@ Once that is done, invite some friends over to watch stuff.  It's time we starte
 - 2022-2023: Washington University of St. Louis, Coding Bootcamp, St. Louis, MO
 
 ## Contact
-You can contact me here. I have a [LinkedIn](https://www.linkedin.com/in/jasoncharney/) profile, but that website sucks. It's such a crappy play.
+You can contact me here. I have a [LinkedIn](https://www.linkedin.com/in/jasoncharney/) profile, but that website sucks. It's such a crappy play. Go see my stuff at those other links.
+
+Coded in America 🇺🇸
 
