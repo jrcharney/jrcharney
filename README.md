@@ -165,8 +165,8 @@ I don't care if it mean I won't get a job. If you're OK with any of that crap, y
 This industry needs new leadership.
 
 ## Contact
-You can contact me here. I have a [LinkedIn](https://www.linkedin.com/in/jasoncharney/) profile, but that website sucks. It's such a crappy play. Go see my stuff at those other links.
+You can contact me here. I have a [LinkedIn](https://www.linkedin.com/in/jasoncharney/) profile, but that website sucks. It's such a crappy place. All the ever do is try to con you into handing your personal information over to data brokers.  Also the rich people with their ego-stroking.  It ain't worth it, and I don't care if people think my opinions there are brash. Go see my stuff at those other links.
 
 ---
-&copy; 2022 | A JRCharney Production | ![US Flag](https://github.com/jrcharney/jrcharney/blob/main/US-United-States-Flag-icon.png) Coded in Amerca
+&copy; 2025 | A JRCharney Production | ![US Flag](https://github.com/jrcharney/jrcharney/blob/main/US-United-States-Flag-icon.png) Coded in Amerca
 
