@@ -1,5 +1,29 @@
 # @JRCharney
 
+> <h2>AN IMPORTANT MESSAGE TO PEOPLE WHO WRITE AND CODE!</h2>
+>
+> January 18, 2025
+>
+> As Generative Artificial Intelligence (G.A.I.) becomes more prevelent, there are people in the Corporate World ("corpos") who will tell you that "you don't need to write" or "you don't need to code anymore" or that "coding is irrelvant now that A.I. can do it."
+>
+> Even the people who operate this website have developed this attitude that you should replace your writing skills with their proprietary A.I. product.
+>
+> **DO NOT BELIEVE THEM!**
+>
+> Your coding skills are as relevant today as they were a few years ago. We need writes and coders!
+>
+> The legnedary author [Ray Bradbury](https://raybradbury.com/) warned us many years ago in fiction of [a world where reading was discouraged](https://en.wikipedia.org/wiki/Fahrenheit_451). Ficticiously, it was banned, but as we have seen in recent years, there are many people who still want to ban book and a growing group that wants to BURN them. 
+>
+> Any skill that requires critical thinking is important. The electronic calculator does not always replace the need to exercise mental arithmetic. The computer doesn't always replace the encyclopedia. The online shopping experience does not replace strolling through local shops, especially bookstores and sit-down restaurants. The smartphone and social media do not replace the need for social interaction.
+>
+> We still need people who can write. Whether it is books or computer code, we still need writers. We still need people to edit code and refactor code.  In fact, we still need EVERY creative skill, regardless if the corpos' shareholders think that it is not economically necessary.
+>
+> G.A.I. isn't all bad. It has helped out with a few tech issues when humans were not around to answer those questions, but use it sparingly. If anything, create your own Large Language Model (LLM) which is far more ethical than the G.A.I. these big tech companies have created that stole most of our data.  Remember to use metatags to restrict these things from taking your content. Remember to add a copyrwrite or license to your projects. And if necessary, take them to court for plagarism and copyright theft.
+>
+> But what ever you do: **DON'T STOP WRITING!** And don't let anyone tell you to stop! Write for yourself. And if you write for someone else, make sure you have a contract in writing. Join a union. Join a club. Just don't let these people steal yourself and act like "you put it out there for free." These are the same people who were ever told at a fan convention "Cosplay is not consent!"
+>
+> Fight for your right to be creative and fairly compensated for your creativity!
+
 I am **Jason Charney** (@JRCharney).  I am a web developer in the St. Louis Area.
 
 ## Websites
