@@ -2,7 +2,7 @@
 
 Eventually, I will get [my website](https://www.jrcharney.com/) up and running again. WordPress kinda sucks and it doesn't simply have a way to write blogposts that support code like it does here. You have to find all those things.
 
-I have some [gists](https://gist.github.com/jrcharney).
+I have some [gists](https://gist.github.com/jrcharney) and my [CodePen](https://codepen.io/jrcharney/) portfolio.
 
 Also, stop letting these sales and marketing people make decisions. I saw a comment recently on a video about how great "vibe coding" is, and someone said "You know, the Death Star was vibe code it."  Learn how coidng works. Don't just accept the first thing that comes out of the A.I. prompt.  A.I. only gets it right 25% of the time, and the other 75% is you going back to undo an error that you asked the A.I. to do, but undid the wrong thing, snuck in some code you didn't ask for, your tries to gaslight you into making changes to your computer that aren't even necessary for your project to work. **So pay attention!**
 
